@@ -22,6 +22,11 @@ It was a guided process but it was nice to go through this setup and have a soli
 
 **Link(s) to work**: https://github.com/darrylonvinyl/hello
 
+### Day 4: March, 31, 2019
+
+**Today's Progress**: I fell off the bandwagon a bit, only because I have had some pretty big changes professionally and it was life disruptive, but I'm looking to get back on! I picked up "Learn Python the Hard way" and worked on chapters 14 and 15. This talked about prompts and passing arguments, as well as reading files.
+
+**Thoughts**: This was something I definitely wanted to focus on, as I feel file manipulation is particularly important. I want to practice this a bit more, and try to replicate some of these functions in Bash.
 
 ### Day 0: February 30, 2016 (TEMPLATE)
 ##### (delete me or comment me out)
